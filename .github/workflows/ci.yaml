@@ -32,5 +32,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: garibeiro1993/fc-2.0-ci-go:latest
-
+          tags: gabriel1993ribeiro/fc-2.0-ci-go:latest
